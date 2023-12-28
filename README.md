@@ -6,3 +6,4 @@ Thank you.
 ![what-is-data-science](https://github.com/Metionis/Data-Analisis/assets/111939726/bffcd4c2-54e2-4365-af9a-8181167f4847)
 
 Contents:
+1. BA_customer_mining
