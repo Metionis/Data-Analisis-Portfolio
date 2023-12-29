@@ -7,3 +7,5 @@ Thank you.
 
 Contents:
 1. [BA_customer_mining](https://github.com/Metionis/Data-Analisis/tree/a8a7319ba72a8f1783164d60e72f8bb0aed936bd/BA_customer_mining)https://github.com/Metionis/Data-Analisis/tree/a8a7319ba72a8f1783164d60e72f8bb0aed936bd/BA_customer_mining
+2. https://github.com/Metionis/Data-Analisis/tree/a8a7319ba72a8f1783164d60e72f8bb0aed936bd/BCG_Customer_mining
+3. 
